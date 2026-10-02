@@ -3,14 +3,14 @@
 **Full-stack tutoring platform connecting students with certified teachers for personalized 1-on-1 sessions.**
 
 🌐 **Live site:** [custompathlearning.com](https://custompathlearning.com)
-👩‍💻 **Built by:** Leanne Byrne · Co-Founder & Technology Lead
+👩‍💻 **Built by:** Leanne Byrne · Technology Lead
 📍 **Status:** Live in production
 
 ---
 
 ## About the Project
 
-CustomPath Learning is a startup I co-founded to connect families with certified teachers for personalized tutoring. I own the entire technical side of the business — architecture, backend, frontend, deployment, payments, database, and ongoing operations.
+CustomPath Learning is a startup to connect families with certified teachers for personalized tutoring. I own the entire technical side of the business — architecture, backend, frontend, deployment, payments, database, and ongoing operations.
 
 This is not a class project or a tutorial. It is a **live, production platform** processing real payments through Stripe, storing real user data, and operating as a functioning business with active tutors and families.
 
