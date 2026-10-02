@@ -133,7 +133,7 @@ The admin dashboard provides a live view of every booking, tutor, student, sessi
 
 ## My Role
 
-**Co-Founder · Technology & Operations Lead**
+**Technology & Operations Lead**
 
 I am personally responsible for:
 
@@ -148,7 +148,6 @@ I am personally responsible for:
 - Cloudflare DNS, SSL, and CDN configuration
 - Ongoing bug fixes, features, and operational support
 
-My co-founder, Jacqueline Loftus, leads educational content, tutor recruitment, and family outreach.
 
 ---
 
